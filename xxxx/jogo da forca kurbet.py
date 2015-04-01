@@ -1,4 +1,6 @@
 #AndréKurbet
+#Projeto2 Design de Software - Insper Engenharia - 2015.1
+#31/03/2015 as 23:50
 from turtle import * 
 import time
 import string
